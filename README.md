@@ -32,16 +32,7 @@
 
 ---
 
-### 3. [Project Name: e.g., Analyzing Pizza Delivery Times]
-*The Problem:* [1 plain-English sentence about what you were trying to solve]
-*The Tools Used:* [e.g., Python, Pandas]
-*The Impact:* [1 sentence explaining the result or business value]
-
-🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](link-to-github-repo)
-
----
-
 ## 📬 Let's Connect
 Currently open to Data Analyst roles. I'd love to chat about data, tech, or your favorite coffee roast! 
 
-[Send me an email](mailto:youremail@email.com) to get in touch.
+[Send me an email](mailto:mabowaba@gmail.com) to get in touch.
