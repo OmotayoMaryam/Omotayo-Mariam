@@ -2,7 +2,7 @@
 <img src="Ivie_Osoiye_Official_Photo.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
 ## Data Analyst | Turning messy data into clear business insights
-[My LinkedIn](https://www.linkedin.com/in/mariam-abowaba-8179a11b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [View My Resume]([link-to-google-drive-pdf](https://drive.google.com/drive/home)) | [Email Me](mabowaba@gmail.com)
+[My LinkedIn](https://www.linkedin.com/in/mariam-abowaba-8179a11b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [View My Resume](https://drive.google.com/drive/home)) | [Email Me](mabowaba@gmail.com)
 
 ---
 
@@ -25,6 +25,7 @@
 *The Problem:* [Nigerian breweries struggles to identify which products, regions and sales channels are contributing most to its overall revenue and profitability]
 
 *The Tools Used:* SQL
+
 *The Impact:* This project delivers actionable sales insights that help Nigerian breweries optimise revenue, boost brand performance and strenghten regional sales strategy.
 
 🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](link-to-github-repo)
