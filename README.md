@@ -21,14 +21,14 @@
 
 ---
 
-### 2. [Project Name: Sales performance Analytics of Nigerian breweries]
+### 2. Sales performance Analytics of Nigerian breweries
 *The Problem:* [Nigerian breweries struggles to identify which products, regions and sales channels are contributing most to its overall revenue and profitability]
 
 *The Tools Used:* SQL
 
 *The Impact:* This project delivers actionable sales insights that help Nigerian breweries optimise revenue, boost brand performance and strenghten regional sales strategy.
 
-🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](link-to-github-repo)
+🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](https://github.com/OmotayoMaryam/SALES-PERFORMANCE-ANALYTICS-NIGERIAN-BREWERIES)
 
 ---
 
